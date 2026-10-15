@@ -1,0 +1,87 @@
+[
+ {
+  "id": "2026-10-15_reels_dia_do_professor",
+  "quando": "2026-10-15T12:00:00-03:00",
+  "action": "create_video_post",
+  "params": {
+   "video_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-15_reels_dia_do_professor/reels.mp4",
+   "cover_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-15_reels_dia_do_professor/capa.jpg",
+   "share_to_feed": true,
+   "caption": "Hoje é Dia do Professor. 🍎\n\nObrigado a cada professor que entra em sala todos os dias e transforma a vida de uma criança.\n\nMas hoje eu quero falar com outra pessoa: o dono da escola.\n\nVocê cuida do pedagógico, do financeiro, da equipe, dos pais… e ainda precisa encher as salas para o ano que vem. Quase ninguém ensina isso para o gestor.\n\nA partir de hoje, este perfil vai ser a sua sala de aula. Uma aula por dia, até o fim da temporada de matrículas, sobre como atrair, convencer e matricular novas famílias.\n\nSiga @reezuedu e me conta nos comentários: há quantos anos você está à frente da sua escola?\n\n#diadoprofessor #gestaoescolar #marketingeducacional #escolaparticular #matriculas2027"
+  }
+ },
+ {
+  "id": "2026-10-16_estatico_indicacao",
+  "quando": "2026-10-16T18:00:00-03:00",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-16_estatico_indicacao/post.jpg",
+   "caption": "Indicação é a melhor propaganda que uma escola pode ter. Não tenho dúvida disso.\n\nO problema começa quando ela é o único plano.\n\nIndicação não tem data marcada. Você não sabe se vêm 3 famílias ou 30, nem se elas chegam em outubro ou só em fevereiro, quando as salas já deveriam estar formadas.\n\nUm plano de captação é diferente: ele tem público, orçamento, calendário e meta. Você sabe o que está fazendo e consegue medir o resultado.\n\nO ideal não é trocar uma coisa pela outra. É ter as duas.\n\nSalve este post e envie para quem divide a gestão da escola com você.\n\n#gestaoescolar #marketingeducacional #captacaodealunos #escolaparticular"
+  }
+ },
+ {
+  "id": "2026-10-17_reels_por_que_escolas",
+  "quando": "2026-10-17T10:00:00-03:00",
+  "action": "create_video_post",
+  "params": {
+   "video_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-17_reels_por_que_escolas/reels.mp4",
+   "cover_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-17_reels_por_que_escolas/capa.jpg",
+   "share_to_feed": true,
+   "caption": "Muita gente me pergunta por que a Reezu atende só escolas.\n\nA resposta é simples: escola não é loja.\n\nNinguém matricula um filho por impulso. É uma decisão de anos, tomada por pais que pesquisam, comparam, visitam e conversam muito em casa antes de confiar.\n\nE o dono da escola vive uma rotina que só quem está dentro entende: período de matrícula, rematrícula, evasão, inadimplência, reunião de pais, tudo ao mesmo tempo.\n\nPor isso escolhemos falar uma língua só: a da escola. Marketing que chega até a matrícula.\n\nComente ESCOLA e me diga de qual cidade você é. Quero conhecer quem está acompanhando por aqui. 👇\n\n#marketingeducacional #gestaoescolar #escolaparticular #agenciademarketing"
+  }
+ },
+ {
+  "id": "2026-10-18_estatico_vagas",
+  "quando": "2026-10-18T19:00:00-03:00",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-18_estatico_vagas/post.jpg",
+   "caption": "Domingo à noite é quando muito gestor planeja a semana. Então deixo uma conta para você fazer agora:\n\nVagas abertas para 2027 × valor da mensalidade × 12 meses.\n\nNo exemplo do post, 15 vagas a R$ 900 somam R$ 162 mil por ano. É isso que fica de fora quando a sala não fecha.\n\nE o número costuma ser maior do que parece, porque um aluno que entra hoje pode ficar com você por muitos anos.\n\nFez a conta e quer entender como preencher essas vagas? Me chama no direct com a palavra DIAGNÓSTICO. A gente olha juntos, sem custo, como está a presença digital da sua escola.\n\n#gestaoescolar #matriculas2027 #captacaodealunos #escolaparticular"
+  }
+ },
+ {
+  "id": "2026-10-19_carrossel_aula01",
+  "quando": "2026-10-19T07:30:00-03:00",
+  "action": "create_carousel_post",
+  "params": {
+   "image_urls": [
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/01.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/02.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/03.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/04.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/05.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/06.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-19_carrossel_aula01/07.jpg"
+   ],
+   "caption": "Aula 01: por que a indicação parou de encher sua escola. 📚\n\nO pai ainda ouve a indicação de um amigo. A diferença é o que acontece depois: antes de visitar, ele pesquisa a escola no Google, olha o Instagram e lê as avaliações.\n\nSe a escola não aparece bem nesses lugares, a indicação morre ali, e você nem fica sabendo.\n\nArraste até o fim para ver a lição de casa de hoje (10 minutos, prometo).\n\nQuer o checklist completo de Matrículas 2027? Comente MATRÍCULA que eu te envio no direct.\n\n#marketingeducacional #gestaoescolar #captacaodealunos #matriculas2027 #escolaparticular"
+  }
+ },
+ {
+  "id": "2026-10-20_reels_dia_na_vida",
+  "quando": "2026-10-20T12:00:00-03:00",
+  "action": "create_video_post",
+  "params": {
+   "video_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-20_reels_dia_na_vida/reels.mp4",
+   "cover_url": "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-20_reels_dia_na_vida/capa.jpg",
+   "share_to_feed": true,
+   "caption": "6h45 o portão abre. 21h você ainda está respondendo pai no WhatsApp.\n\nNo meio disso: professor que faltou, conversa difícil com família, planilha de inadimplência, reunião pedagógica…\n\nE a captação de novos alunos? Fica para amanhã. E amanhã acontece tudo de novo.\n\nSe você se viu nesse vídeo, saiba que não é falta de esforço. É falta de tempo e de alguém cuidando dessa frente com você.\n\nMarque um gestor que vive exatamente essa rotina. 👇\n\n#gestaoescolar #donodeescola #escolaparticular #marketingeducacional"
+  }
+ },
+ {
+  "id": "2026-10-21_carrossel_4etapas",
+  "quando": "2026-10-21T07:30:00-03:00",
+  "action": "create_carousel_post",
+  "params": {
+   "image_urls": [
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/01.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/02.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/03.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/04.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/05.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/06.jpg",
+    "https://mauricioreezu.github.io/reezu-midia/semana1/2026-10-21_carrossel_4etapas/07.jpg"
+   ],
+   "caption": "Toda família passa por 4 etapas até matricular: descobre, pesquisa, visita e matricula.\n\nE a escola pode perder essa família em qualquer uma delas: quando ninguém fora do bairro sabe que ela existe, quando o perfil está parado, quando o WhatsApp demora a responder, ou quando ninguém liga de volta depois da visita.\n\nMarketing cuida das duas primeiras etapas. Sua equipe, das duas últimas. Quando uma não conversa com a outra, o anúncio vira dinheiro perdido.\n\nSalve este carrossel e revise com sua equipe na próxima reunião.\n\n#gestaoescolar #marketingeducacional #captacaodealunos #matriculas2027"
+  }
+ }
+]
